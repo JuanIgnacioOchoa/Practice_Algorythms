@@ -1,4 +1,4 @@
-import queue as Queue
+#import queue as Queue
 
 cntr = 0
 
